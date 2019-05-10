@@ -16,8 +16,8 @@ function Home() {
         <a ml='auto' fontSize={0} fontWeight={700} color='black' href='https://github.com/tachyons-css/tachyons-styled-react' title="GitHub">GitHub</a>
       </header>
       <main>
-        <Container pt={[5,6]} pb={[5,6,7]} px={4}>
-          <h2 fontSize={[3,6,7]} mb={4} mt={0}>Build, design, and style UI at the speed of light</h2>
+        <Container pt={[4,5]} pb={[4,5,6]} px={4}>
+          <h2 fontSize={[2,3,4]} mb={4} mt={0}>Build, design, and style UI at the speed of light</h2>
           <h3 fontSize={[1,2,3]} lineHeight={1.25} textStyle='caps' color='black-80' mb={5}>
             <span display={['block', 'inline']}>Tachyons + </span>
             <span display={['block', 'inline']}>Styled-system + </span>
@@ -25,7 +25,7 @@ function Home() {
             <span display={['block', 'inline']}>Create React App</span>
           </h3>
           <a href='/styles' title="Styles and documentation"
-             bg='dark-blue' color='white' borderRadius={2} py={3} px={4} fontSize={[1]} fontWeight={700}>
+             bg='dark-blue' color='white' borderRadius={3} py={2} px={3} fontSize={[2]} fontWeight={700}>
             Styles &amp; Documentation
           </a>
         </Container>

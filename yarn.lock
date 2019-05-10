@@ -1306,6 +1306,18 @@
   dependencies:
     "@hapi/hoek" "6.x.x"
 
+"@hig/fonts@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@hig/fonts/-/fonts-1.0.2.tgz#84ffc16b9c15806b97e3d8627e5962bd75b6b81e"
+  integrity sha512-XcO0vd0yg3sfxG0GCdn5IUosArQUf7H16yh0l/wrb5SIT9cvGxW2c91ue/30BVvbdNHZZrkMkAX4XCs5oDm/Yg==
+
+"@hig/theme-data@^2.5.0":
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/@hig/theme-data/-/theme-data-2.5.0.tgz#71428472957f768db48d5c467a03dc1971c673ea"
+  integrity sha512-VMgt/sHQ9NjRZLnIZetYHDK5g6hu/uhjrngNK9Brk+OgfwH2Wfgmv2h5XoZFZhOmYJaD2KkY9RJbzon7sOlynA==
+  dependencies:
+    tinycolor2 "^1.4.1"
+
 "@jest/console@^24.7.1":
   version "24.7.1"
   resolved "https://registry.yarnpkg.com/@jest/console/-/console-24.7.1.tgz#32a9e42535a97aedfe037e725bd67e954b459545"
@@ -9799,6 +9811,11 @@ tiny-warning@^1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/tiny-warning/-/tiny-warning-1.0.2.tgz#1dfae771ee1a04396bdfde27a3adcebc6b648b28"
   integrity sha512-rru86D9CpQRLvsFG5XFdy0KdLAvjdQDyZCsRcuu60WtzFylDM3eAWSxEVz5kzL2Gp544XiUvPbVKtOA/txLi9Q==
+
+tinycolor2@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/tinycolor2/-/tinycolor2-1.4.1.tgz#f4fad333447bc0b07d4dc8e9209d8f39a8ac77e8"
+  integrity sha1-9PrTM0R7wLB9TcjpIJ2POaisd+g=
 
 tmp@^0.0.33:
   version "0.0.33"

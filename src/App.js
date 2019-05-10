@@ -3,7 +3,9 @@ import { ThemeProvider } from "emotion-theming"
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
 import theme from './theme'
 
-// import pages here 
+import "@hig/fonts/build/ArtifaktElement.css";
+
+// import pages here
 import Styles from './pages/Styles'
 import Home from './pages/Home'
 
